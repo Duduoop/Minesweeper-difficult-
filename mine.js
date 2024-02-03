@@ -2,7 +2,7 @@ var board = [];
 var rows = 8;
 var columns = 8;
 
-var minesCount = 49;// <--- You can change the nuber of bombs or dificulty of game by changing number!!
+var minesCount = 39;// <--- You can change the nuber of bombs or dificulty of game by changing number!!
 var minesLocation = []; //"2-2", "3-4" "2-1"
 
 var tilesClicked = 0; //goal to clickall tiles except the ones containing mines!
