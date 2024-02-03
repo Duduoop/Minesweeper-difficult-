@@ -1,0 +1,3 @@
+Here is the more difficult challenge...
+
+Click the link to play?<a href="http://htmlpreview.github.io/?https://github.com/Duduoop/Minesweeper-difficult-/blob/main/index.html">Here will be the more dificult challenge</a>
